@@ -1,5 +1,5 @@
 {
-    "name": "@nativescript-community/ui-webview-root",
+    "name": "@perspective-daily/ui-webview-root",
     "version": "1.0.0",
     "homepage": "https://github.com/nativescript-community/ui-webview#readme",
     "bugs": {
@@ -58,6 +58,7 @@
         "@nativescript-community/template-snippet": "file:demo-snippets"
     },
     "devDependencies": {
+        "@lerna-lite/cli": "^3.10.1",
         "ts-node": "10.9.1"
     },
     "ntl": {
